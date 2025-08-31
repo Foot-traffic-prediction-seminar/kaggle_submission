@@ -46,20 +46,7 @@ This pipeline allowed for a streamlined evaluation of all models and facilitated
 ---
 
 ## Evaluation
-Performance is measured using **Mean Squared Error (MSE)** across all three target variables and streets:
-
-\[
-\text{MSE}_{total} = \frac{1}{S \cdot T \cdot 3} \sum_{s=1}^{S} \sum_{t=1}^{T} \sum_{i=1}^{3} \left(y_{st}^{i} - \hat{y}_{st}^{i}\right)^2
-\]
-
-Where:
-- \(S\) = total streets  
-- \(T\) = total test time points  
-- \(i\) = target variable index  
-- \(y_{st}^{i}\) = actual pedestrian count  
-- \(\hat{y}_{st}^{i}\) = predicted pedestrian count  
-
-Lower MSE indicates better predictive performance. Fine-tuning and feature engineering are crucial to optimising forecasts.
+Performance is measured using **Mean Squared Error (MSE)** across all three target variables and streets. A lower MSE indicates better predictive performance. Fine-tuning and feature engineering are crucial to optimising forecasts.
 
 ---
 
