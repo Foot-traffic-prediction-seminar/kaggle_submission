@@ -1,0 +1,4 @@
+streetname,stores_count,schools_count,restaurants_count,healthcare_count,special_features_count,tram_access,pedestrian_zone,market_place
+Schoenbornstrasse,8,1,2,1,2,1,0,1
+Spiegelstrasse,8,0,7,1,3,0,1,0
+Kaiserstrasse,29,3,9,2,3,1,0,0

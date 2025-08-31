@@ -1,0 +1,102 @@
+id,startDate,endDate,type,name,regionalScope,temporalScope,nationwide,subdivisions
+bff5aa15-d762-471c-b98a-f97a88f02fa3,2020-01-01,2020-01-01,Public,Neujahr,Regional,FullDay,True,
+acdc4a9a-3ca7-4629-86a2-2fde04e93e8d,2020-01-06,2020-01-06,Public,Heilige Drei Könige,Regional,FullDay,False,"BW, BY, ST"
+6f581921-915c-4a9c-8903-5881d76d1927,2020-03-08,2020-03-08,Public,Internationaler Frauentag,Regional,FullDay,False,BE
+aa7998cb-2c2c-4228-9ea7-74a21a1daaf1,2020-04-10,2020-04-10,Public,Karfreitag,Regional,FullDay,True,
+da643610-17fb-4447-aeba-c04075cd7c5b,2020-04-12,2020-04-12,Public,Ostersonntag,Regional,FullDay,False,BB
+fbc7ffb8-2750-46b9-96e3-d43f6be86d64,2020-04-13,2020-04-13,Public,Ostermontag,Regional,FullDay,True,
+c156ae07-bb1f-444f-a4ea-694bc571e1ef,2020-05-01,2020-05-01,Public,Tag der Arbeit,Regional,FullDay,True,
+ce9331bc-bb3d-415f-9e15-f2d364ec00f0,2020-05-08,2020-05-08,Public,Tag der Befreiung,Regional,FullDay,False,BE
+50d3e2e7-20d9-4852-b072-dd733d4cb18c,2020-05-21,2020-05-21,Public,Christi Himmelfahrt,Regional,FullDay,True,
+fed605b2-39ac-46bc-87be-c42410ee2446,2020-05-31,2020-05-31,Public,Pfingstsonntag,Regional,FullDay,False,BB
+30bc6858-7e7d-4a0f-9bc0-de506b7a4397,2020-06-01,2020-06-01,Public,Pfingstmontag,Regional,FullDay,True,
+4916a671-f043-4d59-a7a7-dee06b3ba356,2020-06-11,2020-06-11,Public,Fronleichnam,Regional,FullDay,False,"BW, BY, RP, HE, NW, SL"
+bbddeb37-af4f-45d7-89f8-d81decd0839f,2020-08-08,2020-08-08,Public,Friedensfest,Local,FullDay,False,BY-AU
+1ed054a5-9e02-4a5a-8941-43788ceccb63,2020-08-15,2020-08-15,Public,Mariä Himmelfahrt,Regional,FullDay,False,"BY, SL"
+852e6da0-7b71-415b-a36f-a12ec5551f57,2020-09-20,2020-09-20,Public,Weltkindertag,Regional,FullDay,False,TH
+9ef90361-8436-4e0a-8e28-e6ae55b341b7,2020-10-03,2020-10-03,Public,Tag der Deutschen Einheit,National,FullDay,True,
+23c77469-0b90-4edb-9d63-8387b80ebfb5,2020-10-31,2020-10-31,Public,Reformationstag,Regional,FullDay,False,"HH, SH, BB, HB, MV, TH, SN, ST, NI"
+0a3e2f1e-4c60-4543-9c0e-2d75484131f9,2020-11-01,2020-11-01,Public,Allerheiligen,Regional,FullDay,False,"BW, BY, RP, NW, SL"
+e6b048ef-dc91-41a9-8162-552ed14b413c,2020-11-18,2020-11-18,Public,Buß- und Bettag,Regional,FullDay,False,SN
+b7d3d55f-6974-4778-b9fa-444d5a2d35bd,2020-12-25,2020-12-25,Public,1. Weihnachtsfeiertag,Regional,FullDay,True,
+3a53bd86-6173-4f60-a676-3f693d02275c,2020-12-26,2020-12-26,Public,2. Weihnachtsfeiertag,Regional,FullDay,True,
+4acbb5fb-5d3d-450a-8095-8c322e855272,2021-01-01,2021-01-01,Public,Neujahr,Regional,FullDay,True,
+949a10c9-6abc-4088-938d-e16a23d4d746,2021-01-06,2021-01-06,Public,Heilige Drei Könige,Regional,FullDay,False,"BW, BY, ST"
+5c28ce65-3bab-413b-ae32-2492eafa319a,2021-03-08,2021-03-08,Public,Internationaler Frauentag,Regional,FullDay,False,BE
+3772289c-28e5-4fc9-bb14-4509a026bcec,2021-04-02,2021-04-02,Public,Karfreitag,Regional,FullDay,True,
+7a4ca67a-36c1-4893-81db-736458f1bfae,2021-04-04,2021-04-04,Public,Ostersonntag,Regional,FullDay,False,BB
+c3c4e15f-e9f4-4834-b0e5-769f9e663669,2021-04-05,2021-04-05,Public,Ostermontag,Regional,FullDay,True,
+0316ac75-d320-4110-985f-ef883416b378,2021-05-01,2021-05-01,Public,Tag der Arbeit,Regional,FullDay,True,
+f769b001-8d0b-4e41-9a16-fb446a6bcc64,2021-05-13,2021-05-13,Public,Christi Himmelfahrt,Regional,FullDay,True,
+319c34c9-5227-48c0-aa55-baff26a602fc,2021-05-23,2021-05-23,Public,Pfingstsonntag,Regional,FullDay,False,BB
+c5495db1-32f7-47f6-8bc6-b2eee461af58,2021-05-24,2021-05-24,Public,Pfingstmontag,Regional,FullDay,True,
+0bec62b8-79d8-4fb8-b7d6-e495d8bdecd0,2021-06-03,2021-06-03,Public,Fronleichnam,Regional,FullDay,False,"BW, BY, RP, HE, NW, SL"
+6fb60260-b97f-46d8-a630-aad5c77f93dc,2021-08-08,2021-08-08,Public,Friedensfest,Local,FullDay,False,BY-AU
+e4ab47f2-6630-4728-a65e-2ac590d42491,2021-08-15,2021-08-15,Public,Mariä Himmelfahrt,Regional,FullDay,False,"BY, SL"
+112ce485-d9e7-45f8-a866-dfe172e2e3ba,2021-09-20,2021-09-20,Public,Weltkindertag,Regional,FullDay,False,TH
+9735e445-143d-4db7-b689-f77b1fb6310e,2021-10-03,2021-10-03,Public,Tag der Deutschen Einheit,National,FullDay,True,
+724089ae-7b7c-492c-8099-5097bafea4eb,2021-10-31,2021-10-31,Public,Reformationstag,Regional,FullDay,False,"HH, SH, BB, HB, MV, TH, SN, ST, NI"
+404a7f93-6cf4-475b-afe4-a1b2c6163f00,2021-11-01,2021-11-01,Public,Allerheiligen,Regional,FullDay,False,"BW, BY, RP, NW, SL"
+13efc66c-425c-47c9-b147-dcb76c1e1103,2021-11-17,2021-11-17,Public,Buß- und Bettag,Regional,FullDay,False,SN
+d7249ebf-1242-4361-be12-fa6570254e41,2021-12-25,2021-12-25,Public,1. Weihnachtsfeiertag,Regional,FullDay,True,
+bf328eb6-60d5-495b-abe9-a000e6118d8a,2021-12-26,2021-12-26,Public,2. Weihnachtsfeiertag,Regional,FullDay,True,
+ff3b77a3-8c31-47af-b1c7-f26dd51f3c19,2022-01-01,2022-01-01,Public,Neujahr,Regional,FullDay,True,
+3670fbc1-514d-49c8-9b1f-5f43a779c30d,2022-01-06,2022-01-06,Public,Heilige Drei Könige,Regional,FullDay,False,"BW, BY, ST"
+31ff9a3c-f004-4b89-be24-5ebe26089c60,2022-03-08,2022-03-08,Public,Internationaler Frauentag,Regional,FullDay,False,BE
+77bf6fd2-bdd4-423f-ae09-37090e8adcfe,2022-04-15,2022-04-15,Public,Karfreitag,Regional,FullDay,True,
+71098c0a-04dd-48d9-ac24-5aadbf8a4cd6,2022-04-17,2022-04-17,Public,Ostersonntag,Regional,FullDay,False,BB
+04857023-b572-4ff7-b412-a2a068f3a387,2022-04-18,2022-04-18,Public,Ostermontag,Regional,FullDay,True,
+c4f18911-57b7-4854-9ce3-bab66b024c04,2022-05-01,2022-05-01,Public,Tag der Arbeit,Regional,FullDay,True,
+40ace374-45e8-4b9f-aa22-3891eeb5451c,2022-05-26,2022-05-26,Public,Christi Himmelfahrt,Regional,FullDay,True,
+03364f5d-c1bc-4727-8786-0257f7df8f73,2022-06-05,2022-06-05,Public,Pfingstsonntag,Regional,FullDay,False,BB
+ce336268-1932-498a-b56b-04191abe18fb,2022-06-06,2022-06-06,Public,Pfingstmontag,Regional,FullDay,True,
+fba46f24-170b-4c9a-8d0d-8b0f1c16d510,2022-06-16,2022-06-16,Public,Fronleichnam,Regional,FullDay,False,"BW, BY, RP, HE, NW, SL"
+651242c7-1d42-448c-ac75-9cb9085afc67,2022-08-08,2022-08-08,Public,Friedensfest,Local,FullDay,False,BY-AU
+54dd812d-4b01-4e38-a6de-9fccdb77130e,2022-08-15,2022-08-15,Public,Mariä Himmelfahrt,Regional,FullDay,False,"BY, SL"
+279a6957-3e76-4b00-bdee-340a2f219ac9,2022-09-20,2022-09-20,Public,Weltkindertag,Regional,FullDay,False,TH
+a537e0cb-c2a1-448a-bee5-49430351f0ad,2022-10-03,2022-10-03,Public,Tag der Deutschen Einheit,National,FullDay,True,
+0854bf7a-f2b0-4773-b65f-98744f9b9a10,2022-10-31,2022-10-31,Public,Reformationstag,Regional,FullDay,False,"HH, SH, BB, HB, MV, TH, SN, ST, NI"
+3eab31ad-460c-40b5-99ca-0cfcc627c146,2022-11-01,2022-11-01,Public,Allerheiligen,Regional,FullDay,False,"BW, BY, RP, NW, SL"
+2b59f1b4-9e37-406b-99a4-2a96de54e38a,2022-11-16,2022-11-16,Public,Buß- und Bettag,Regional,FullDay,False,SN
+943c023f-53e0-4824-b13b-cae6a31fe254,2022-12-25,2022-12-25,Public,1. Weihnachtsfeiertag,Regional,FullDay,True,
+d764e01f-db2f-4f94-8f9d-b85b9157ddf2,2022-12-26,2022-12-26,Public,2. Weihnachtsfeiertag,Regional,FullDay,True,
+94498ba1-28e3-4dcd-b28f-d7aaf4cc56d7,2023-01-01,2023-01-01,Public,Neujahr,Regional,FullDay,True,
+04f86fc2-424a-46e5-befd-2dce33158470,2023-01-06,2023-01-06,Public,Heilige Drei Könige,Regional,FullDay,False,"BW, BY, ST"
+88848d07-197b-4b4f-91f6-3cb24a378384,2023-03-08,2023-03-08,Public,Internationaler Frauentag,Regional,FullDay,False,"BE, MV"
+b921a500-5e7e-42b6-9348-885f3157ed4c,2023-04-07,2023-04-07,Public,Karfreitag,Regional,FullDay,True,
+6ffa6452-099c-494b-a920-aeaa7adc261a,2023-04-09,2023-04-09,Public,Ostersonntag,Regional,FullDay,False,BB
+2cc013e7-7079-4c89-a559-27efca5c7b78,2023-04-10,2023-04-10,Public,Ostermontag,Regional,FullDay,True,
+1e25e6a2-85fe-46dd-9fab-9388df4a445c,2023-05-01,2023-05-01,Public,Tag der Arbeit,Regional,FullDay,True,
+c18498e4-d3a7-4e27-8ea3-18e396c2d785,2023-05-18,2023-05-18,Public,Christi Himmelfahrt,Regional,FullDay,True,
+31c384f2-709c-4c55-8af4-f550b8e1006b,2023-05-28,2023-05-28,Public,Pfingstsonntag,Regional,FullDay,False,BB
+9730d923-2686-4d44-8fa5-b4c46a1937f8,2023-05-29,2023-05-29,Public,Pfingstmontag,Regional,FullDay,True,
+86ee67fc-a51f-4f7b-a0c6-f6e9e11eb0ed,2023-06-08,2023-06-08,Public,Fronleichnam,Regional,FullDay,False,"BW, BY, RP, HE, NW, SL"
+66234202-e1f0-4bd1-9504-45fdd4ae5808,2023-08-08,2023-08-08,Public,Friedensfest,Local,FullDay,False,BY-AU
+07617cd9-9dcf-459b-b30d-ac612ae42cd9,2023-08-15,2023-08-15,Public,Mariä Himmelfahrt,Regional,FullDay,False,"BY, SL"
+dc8830b1-0d82-45ad-911f-5781056ed994,2023-09-20,2023-09-20,Public,Weltkindertag,Regional,FullDay,False,TH
+f4f1fe82-cd70-4d33-b456-f78f9b77f064,2023-10-03,2023-10-03,Public,Tag der Deutschen Einheit,National,FullDay,True,
+0e16697c-6a3d-43c1-98cc-d322a330d2c0,2023-10-31,2023-10-31,Public,Reformationstag,Regional,FullDay,False,"HH, SH, BB, HB, MV, TH, SN, ST, NI"
+ed4084d4-897c-4c1c-9d11-837874a5122f,2023-11-01,2023-11-01,Public,Allerheiligen,Regional,FullDay,False,"BW, BY, RP, NW, SL"
+0044e1dc-f326-48a6-b006-4ab66d13bd04,2023-11-22,2023-11-22,Public,Buß- und Bettag,Regional,FullDay,False,SN
+eca484e0-f6a7-4ca4-9891-5def5648c97c,2023-12-25,2023-12-25,Public,1. Weihnachtsfeiertag,Regional,FullDay,True,
+f9e24f26-c4a9-44e7-bda8-3c56fa11eb55,2023-12-26,2023-12-26,Public,2. Weihnachtsfeiertag,Regional,FullDay,True,
+58a1da08-fb96-4d9b-8d95-b1e06278c8f3,2024-01-01,2024-01-01,Public,Neujahr,Regional,FullDay,True,
+ebf55361-f340-4852-a7fa-547143cf9cf2,2024-01-06,2024-01-06,Public,Heilige Drei Könige,Regional,FullDay,False,"BW, BY, ST"
+c628bb86-927f-4086-8beb-061413603d99,2024-03-08,2024-03-08,Public,Internationaler Frauentag,Regional,FullDay,False,"BE, MV"
+72299d8e-272c-44b6-8d50-86ff5cb01a9a,2024-03-29,2024-03-29,Public,Karfreitag,Regional,FullDay,True,
+80e03d79-2d85-4f63-8196-28402341a431,2024-03-31,2024-03-31,Public,Ostersonntag,Regional,FullDay,False,BB
+bd4e0c06-a2c5-4d2a-aa92-1fb7c59025e2,2024-04-01,2024-04-01,Public,Ostermontag,Regional,FullDay,True,
+d849751c-921e-4be1-8b30-117a610c126c,2024-05-01,2024-05-01,Public,Tag der Arbeit,Regional,FullDay,True,
+440aae4c-0d2b-45a4-9480-ae91b106c002,2024-05-09,2024-05-09,Public,Christi Himmelfahrt,Regional,FullDay,True,
+989514bb-91bf-40e6-80bc-b14c18f25654,2024-05-19,2024-05-19,Public,Pfingstsonntag,Regional,FullDay,False,BB
+2407e8d2-b6bc-4d5f-b19a-52d4eba5e498,2024-05-20,2024-05-20,Public,Pfingstmontag,Regional,FullDay,True,
+3931407a-d2f7-4a89-966c-a94781f4a649,2024-05-30,2024-05-30,Public,Fronleichnam,Regional,FullDay,False,"BW, BY, RP, HE, NW, SL"
+67210c1e-8bfe-4240-8e75-ccdd2f945347,2024-08-08,2024-08-08,Public,Friedensfest,Local,FullDay,False,BY-AU
+a0ce548d-6447-4802-948a-1c4897938626,2024-08-15,2024-08-15,Public,Mariä Himmelfahrt,Regional,FullDay,False,"BY, SL"
+14e793ec-208d-4646-8513-8493c0c70668,2024-09-20,2024-09-20,Public,Weltkindertag,Regional,FullDay,False,TH
+a2454b44-b3d5-4681-a345-6eae46fb9f4b,2024-10-03,2024-10-03,Public,Tag der Deutschen Einheit,National,FullDay,True,
+b08021e1-9df0-46e4-8adc-f8140b8ad1a9,2024-10-31,2024-10-31,Public,Reformationstag,Regional,FullDay,False,"HH, SH, BB, HB, MV, TH, SN, ST, NI"
+5e49e26d-44a2-4751-a394-9b83c5ea47f8,2024-11-01,2024-11-01,Public,Allerheiligen,Regional,FullDay,False,"BW, BY, RP, NW, SL"
+38405704-5785-47a4-92b1-1b025a5f7e3c,2024-11-20,2024-11-20,Public,Buß- und Bettag,Regional,FullDay,False,SN
+332d7a5e-c693-4d2d-bdf5-957dd4409c91,2024-12-25,2024-12-25,Public,1. Weihnachtsfeiertag,Regional,FullDay,True,
+717b466d-05f3-4810-915b-96625ca2aebf,2024-12-26,2024-12-26,Public,2. Weihnachtsfeiertag,Regional,FullDay,True,

@@ -1,0 +1,37 @@
+id,startDate,endDate,name,type,subdivisions
+3c508482-faa7-4fe8-b80b-bb7f33dcc4ef,2019-12-23,2020-01-04,Weihnachtsferien,School,BY
+a570a9c7-10b8-4ee9-b4a3-268f224017d0,2020-02-24,2020-02-28,Frühjahrsferien,School,BY
+e17083ad-ad28-4284-92b5-bf07da7958e1,2020-04-06,2020-04-18,Osterferien,School,BY
+bebe56e4-e16f-49af-8a3e-b01f03c74f59,2020-06-02,2020-06-13,Pfingstferien,School,BY
+915fb380-b6ad-4542-a2b2-2e7111323f49,2020-07-27,2020-09-07,Sommerferien,School,BY
+f63af775-225d-47bd-bb9a-74e9450a9932,2020-10-31,2020-11-06,Herbstferien,School,BY
+010baeca-7fc4-468a-a869-181cd0560104,2020-11-18,2020-11-18,Buß- und Bettag,School,BY
+9b11d6b2-4ce1-4f7b-9472-e4c66fb63c06,2020-12-23,2021-01-09,Weihnachtsferien,School,BY
+b359fe5f-f6d9-45ee-8f8e-89bdfd557797,2021-03-29,2021-04-10,Osterferien,School,BY
+bee479e6-7a9f-44f6-9457-601a51cbc692,2021-05-25,2021-06-04,Pfingstferien,School,BY
+bd663213-a04d-4d20-ae92-7ba54bf28257,2021-07-30,2021-09-13,Sommerferien,School,BY
+170e3acd-6518-460d-824b-e7a86a8468e8,2021-11-02,2021-11-05,Herbstferien,School,BY
+b233ad5d-2c8d-4c58-89f7-b990a2bace91,2021-11-17,2021-11-17,Buß- und Bettag,School,BY
+cba055e2-e225-44fa-a20f-37ec20355fa9,2021-12-24,2022-01-08,Weihnachtsferien,School,BY
+cba055e2-e225-44fa-a20f-37ec20355fa9,2021-12-24,2022-01-08,Weihnachtsferien,School,BY
+80a241e8-a0d0-4b89-8905-bb08cd6d28a6,2022-02-28,2022-03-04,Frühjahrsferien,School,BY
+64ebbda3-6c9b-4109-9326-185ca96b50e6,2022-04-11,2022-04-23,Osterferien,School,BY
+73e0cd5a-260d-4fad-8aa1-d45d9d9b0eae,2022-06-07,2022-06-18,Pfingstferien,School,BY
+51acc4e1-02ce-479f-bfe5-f5b8d2b5a747,2022-08-01,2022-09-12,Sommerferien,School,BY
+b08785c5-cd40-4c92-834a-c6c18db0756b,2022-10-31,2022-11-04,Herbstferien,School,BY
+ed59a45c-fef7-4471-8176-50bc77dcbff0,2022-11-16,2022-11-16,Buß- und Bettag,School,BY
+5a7eae70-428a-4bf5-8f40-8571e41cd058,2022-12-24,2023-01-07,Weihnachtsferien,School,BY
+e2e36723-b732-400f-8b60-4572eccb09d6,2023-02-20,2023-02-24,Frühjahrsferien,School,BY
+950780d4-2182-4804-8678-1ec83168aeac,2023-04-03,2023-04-15,Osterferien,School,BY
+327e5368-24ff-442d-aeee-8c02cb968ebd,2023-05-30,2023-06-09,Pfingstferien,School,BY
+91a595fc-ff92-43e7-9bd8-f08e6da028fc,2023-07-31,2023-09-11,Sommerferien,School,BY
+8c10cfa2-9af6-4ec5-bb00-c358fbf3b0f3,2023-10-30,2023-11-04,Herbstferien,School,BY
+fcfe3a89-c9d3-4879-988b-6471e4abb0ec,2023-11-22,2023-11-22,Buß- und Bettag,School,BY
+b5fc4c46-d6db-434a-b65f-329d14491938,2023-12-23,2024-01-05,Weihnachtsferien,School,BY
+f4cbdd5b-1bf6-4530-8620-b8ddecbbb636,2024-02-12,2024-02-16,Frühjahrsferien,School,BY
+807d237c-c6d4-4b9f-886f-8e0d805a0397,2024-03-25,2024-04-06,Osterferien,School,BY
+f2bb829a-1425-4b89-9c9a-11c94d21c014,2024-05-21,2024-06-01,Pfingstferien,School,BY
+871df250-0576-493c-aea4-e64ee4608bef,2024-07-29,2024-09-09,Sommerferien,School,BY
+64437d56-be06-4632-b8e8-fc8fdfc59e98,2024-10-28,2024-10-31,Herbstferien,School,BY
+23ed1774-4091-4ed2-92be-8ee1b452929d,2024-11-20,2024-11-20,Buß- und Bettag,School,BY
+f3b90493-d141-4aab-ac30-37084db988c3,2024-12-23,2025-01-03,Weihnachtsferien,School,BY
